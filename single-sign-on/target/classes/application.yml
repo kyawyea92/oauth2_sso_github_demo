@@ -1,0 +1,10 @@
+spring:
+  application:
+  name: single-sign-on
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Iv23liBuafOBhE4GczaI
+            clientSecret: 462f97077d90cf38a67e5cb71a6bb0afd2a068ee
